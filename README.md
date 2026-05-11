@@ -1,24 +1,20 @@
-## Hi there 👋
+# Greetings 👨‍💻
 
-<!--
-**Dimensioneisense/Dimensioneisense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indie dev — focused on Windows tooling and game-related software.
 
-Here are some ideas to get you started:
+### Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Memory editing
+- DirectX/OpenGL drawing
+- Process injection
+- Anti-cheat research
 
-## Recent projects
+### Tech stack
 
-<!-- DEVIN-AUTO-PINS-START -->
-- [cs2-game-tool](https://github.com/Dimensioneisense/cs2-game-tool) — This tool is designed for gamers and developers to enhance their experience with the cs2 game. It provides a set of feat
-- [valorant-helper-tool](https://github.com/Dimensioneisense/valorant-helper-tool) — The Valorant Helper Tool is a utility designed for gamers and developers to enhance their experience with the game. It p
-<!-- DEVIN-AUTO-PINS-END -->
+![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![VisualStudio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
+### GitHub stats
+
+![Dimensioneisense's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimensioneisense&show_icons=true&hide_border=true&theme=transparent)
+
+*Star ⭐ a repo if you find it useful.*
